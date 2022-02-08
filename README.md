@@ -7,7 +7,7 @@
 project on Exploring US bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+my project is about exploring the bikrshare data in chicago,new_york_city and washington using python
 
 ### Files used
 chicago.csv
